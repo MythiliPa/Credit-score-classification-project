@@ -1,5 +1,13 @@
 **CREDIT SCORE CLASSIFICATION**
 
+https://github.com/MythiliPa/Credit-score-classification-project/assets/142904439/b4335187-6c0b-4829-b598-cd31c57512e9
+
+
+
+
+https://github.com/MythiliPa/Credit-score-classification-project/assets/142904439/5522ddf4-aa20-4b67-8e29-3afd8613c779
+
+
 Financial sectors and banking have to keenly watch the customer’s credit score. It gives them a big picture of an idea to decide whether they are eligible to sanction a loan or not. Traditional credit scoring models like FICO served well to analyze the credit risk with minimum data. There is a history of so many factors which are uncovered by the traditional models. Hence alternative credit scoring models enter into the business. Machine learning algorithms help to analyze large amounts of data and predict creditworthiness by enhancing the quality of credit scores, i.e., Standard, Good and Poor.
 
 **OBJECTIVE**
