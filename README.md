@@ -1,11 +1,8 @@
 **CREDIT SCORE CLASSIFICATION**
 
-https://github.com/MythiliPa/Credit-score-classification-project/assets/142904439/b4335187-6c0b-4829-b598-cd31c57512e9
 
+https://github.com/MythiliPa/Credit-score-classification-project/assets/142904439/1d0ae5d8-78d4-43e5-9803-1b7e2aa8807b
 
-
-
-https://github.com/MythiliPa/Credit-score-classification-project/assets/142904439/5522ddf4-aa20-4b67-8e29-3afd8613c779
 
 
 Financial sectors and banking have to keenly watch the customer’s credit score. It gives them a big picture of an idea to decide whether they are eligible to sanction a loan or not. Traditional credit scoring models like FICO served well to analyze the credit risk with minimum data. There is a history of so many factors which are uncovered by the traditional models. Hence alternative credit scoring models enter into the business. Machine learning algorithms help to analyze large amounts of data and predict creditworthiness by enhancing the quality of credit scores, i.e., Standard, Good and Poor.
@@ -16,7 +13,7 @@ This project aims to build a machine-learning model to predict credit scores.
 
 **METHODOLOGY**
 
-The Kaggle dataset has been taken to build the model to classify the credit scores as Standard, good, or poor. The dataset contains 27 features and credit score is the target variable. The train data has been subjected to data preprocessing, feature engineering and model training. The train data is split as 70-30 for validation of test data. Separate test data was subjected to test the model.
+A model was built to classify credit scores as standard, good, or poor using the Kaggle dataset. The dataset comprises 28 features with credit score as the target variable. The train data underwent data preprocessing, feature engineering, and model training. A 70-30 train-test split was used for validation, and separate test data was used to test the model.
 
 **Data reading:**
 
@@ -60,20 +57,4 @@ Then the model was evaluated with metrics as accuracy_score().
 
 Since, the data has multiple features, a random forest classifier will be best fit and evaluated with 82% accuracy.
 
-By using the test data, the target variables were predicted, and the output as
 
-|           | **0** |
-|-----------|-------|
-| **0**     | 0     |
-| **1**     | 0     |
-| **2**     | 0     |
-| **3**     | 0     |
-| **4**     | 0     |
-| **...**   | ...   |
-| **49995** | 1     |
-| **49996** | 1     |
-| **49997** | 1     |
-| **49998** | 2     |
-| **49999** | 1     |
-
-50000 rows × 1 columns
